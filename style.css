@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #87bcd1;
+}
+
+.fundo{
+    width: 660px;
+    margin: 0 auto;
+    background-color: #035677;
+}
+
+.flex{
+    display: flex;
+}
+
+.amarelo{
+    background-color: #6fc4e6;
+    padding: 80px;
+    margin: 10px;
+}
