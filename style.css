@@ -9,6 +9,7 @@ body{
 }
 
 .fundo{
+    padding-right: 2px;
     width: 660px;
     margin: 0 auto;
     background-color: #035677;
